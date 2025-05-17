@@ -1,5 +1,5 @@
 # 💫 About Me:
-I do networking, system management and programming
+I do networking, system management and programming.
 
 
 # 💻 Tech Stack:
