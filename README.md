@@ -1,4 +1,4 @@
-# :globe_with_meridians: About Me:
+# :bust_in_silhouette: About Me:
 💻 **IT Professional** with diverse technical interests  
 🔧 **System Administration** - Managing and optimizing systems  
 🌐 **Networking** - Building and maintaining infrastructure  
