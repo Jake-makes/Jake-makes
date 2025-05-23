@@ -1,8 +1,8 @@
 # :globe_with_meridians: About Me:
-🔧 IT Professional well versed in networking, system administration  
-🖥️ Passionate about building robust infrastructure and efficient systems       
-📚 Constantly learning new technologies to solve complex challenges                   
-💻 Developer of tools to streamline operations  
+💻 **IT Professional** with diverse technical interests  
+🔧 **System Administration** - Managing and optimizing systems  
+🌐 **Networking** - Building and maintaining infrastructure  
+💻 **Development** - Creating tools and applications  
 
 ## :zap: Core Competencies:
 - **Network Administration** (Routing, Switching, Firewalls)
