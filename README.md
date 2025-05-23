@@ -1,5 +1,5 @@
 # :globe_with_meridians: About Me:
-🔧 IT Professional specializing in networking, system administration  
+🔧 IT Professional well versed in networking, system administration  
 🖥️ Passionate about building robust infrastructure and efficient systems  
 📚 Constantly learning new technologies to solve complex challenges 
 💻 Developer of tools to streamline operations  
