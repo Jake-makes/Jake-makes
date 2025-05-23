@@ -4,7 +4,7 @@
 📚 Constantly learning new technologies to solve complex challenges 
 💻 Developer of tools to streamline operations  
 
-## 🌐 Core Competencies:
+## :zap: Core Competencies:
 - **Network Administration** (Routing, Switching, Firewalls)
 - **System Management** (Windows/Linux Servers, Active Directory)
 - **Cloud Infrastructure** (AWS, Hybrid Environments)
